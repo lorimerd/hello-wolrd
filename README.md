@@ -1,2 +1,4 @@
 # hello-wolrd
-Hellp
+Help
+
+Trying to figure out what all this git hub is all about.
